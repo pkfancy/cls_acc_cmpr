@@ -1,5 +1,5 @@
 # cls_acc_cmpr
-Comparison and boundary fitting for accuracies of various torchvision classification models
+Comparison and boundary fitting of accuracies among various torchvision classification models on imagenet
 
 ![](Figure_1.png)
 
