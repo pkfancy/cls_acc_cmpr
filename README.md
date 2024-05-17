@@ -1,7 +1,7 @@
 # cls_acc_cmpr
 Comparison and boundary fitting of accuracies among various torchvision classification models on imagenet
 
-$$\mathrm{acc} = 1 - \frac{1}{1 + 1.1 \log \mathrm{size}}$$
+$$\mathrm{acc} \approx 1 - \frac{1}{1 + 1.1 \log \mathrm{size}}$$
 
 ![](Figure_1.png)
 
